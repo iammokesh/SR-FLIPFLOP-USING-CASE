@@ -51,3 +51,4 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 ![exp 6 w](https://github.com/user-attachments/assets/013aa0a8-0eb5-4061-87d7-0700f786c27a)
 
 **RESULTS**
+Thus the SR flipflop is implemented and verified.
